@@ -1,11 +1,9 @@
-# AI_Finance
-streamlit
-yfinance
-pandas
-numpy
-matplotlib
-plotly
-prophet
-scikit-learn
-requests
-
+streamlit==1.35.0
+yfinance==0.2.40
+pandas==2.2.2
+prophet==1.1.5
+scikit-learn==1.5.0
+matplotlib==3.8.4
+requests==2.32.3
+pystan==2.19.1.1
+numpy==1.26.4
